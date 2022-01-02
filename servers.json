@@ -1259,5 +1259,12 @@
         "addresses": [
             "latamcraft.es"
         ]
+    },
+    {
+        "id": "cometmc",
+        "name": "CometMC Network",
+        "addresses": [
+            "cometmc.club"
+        ]
     }
 ]
